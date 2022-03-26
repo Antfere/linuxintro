@@ -1,3 +1,1 @@
-Faculty #: 273221003 
-Group #: 20
-Name: Anthony Atanasov
+273221003, 20, Anthony Atanasov
